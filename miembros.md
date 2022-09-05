@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Nicky Fury
+* Cap. Marvel
